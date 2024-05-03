@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlToPdf48", "HtmlToPdf48\HtmlToPdf48.csproj", "{AC47D922-FC39-4767-9BEE-5CEF29F1EA59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC47D922-FC39-4767-9BEE-5CEF29F1EA59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC47D922-FC39-4767-9BEE-5CEF29F1EA59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC47D922-FC39-4767-9BEE-5CEF29F1EA59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC47D922-FC39-4767-9BEE-5CEF29F1EA59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2227FACD-44E6-40C9-AF8A-1621B63779C6}
+	EndGlobalSection
+EndGlobal
